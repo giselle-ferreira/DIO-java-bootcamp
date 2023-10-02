@@ -1,4 +1,4 @@
-package desafio.iphone.uml;
+package iphone;
 
 public class Iphone implements AparelhoTelefonico, NavegadorNaInternet, ReprodutorMusical {
     @Override
@@ -45,5 +45,4 @@ public class Iphone implements AparelhoTelefonico, NavegadorNaInternet, Reprodut
     public void selecionarMusica(String musica) {
         System.out.println("Selecionar musica... " + musica);
     }
-
 }

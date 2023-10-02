@@ -1,4 +1,4 @@
-package desafio.iphone.uml;
+package iphone;
 
 public interface ReprodutorMusical {
 
